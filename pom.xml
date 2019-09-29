@@ -108,8 +108,6 @@
 						<ruleset>pmd.xml</ruleset>
 					</rulesets>
 				</configuration>
-
-
 				<executions>
 					<execution>
 						<goals>
